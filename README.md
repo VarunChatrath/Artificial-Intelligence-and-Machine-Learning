@@ -54,7 +54,6 @@ This repo also includes exploratory notebooks covering:
 | Forecasting | Statsmodels (ARIMA, SARIMAX), Prophet |
 | Machine Learning | Scikit-learn, XGBoost |
 | Deep Learning | TensorFlow, Keras |
-| Deployment | Streamlit |
 
 ---
 
@@ -62,7 +61,6 @@ This repo also includes exploratory notebooks covering:
 - Understood and implemented **time series forecasting** for real-world financial data.  
 - Applied both **classical** and **deep learning** methods.  
 - Learned how to clean, visualize, and interpret sequential datasets.  
-- Developed deployable prototypes using **Streamlit** for interactive demonstration.
 
 ---
 
@@ -70,8 +68,6 @@ This repo also includes exploratory notebooks covering:
 **Varun Chatrath**  
 Master’s in Artificial Intelligence & Data Science  
 Deggendorf Institute of Technology, Germany  
-📧 varun.chatrath@example.com  
-🌐 [GitHub](https://github.com/VarunChatrath) | [LinkedIn](https://www.linkedin.com/in/varun-chatrath/)  
 
 ---
 
